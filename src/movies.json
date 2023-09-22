@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Nimona",
+      "description": "A knight is framed for a crime he didn't commit, and the only person who can help him prove his innocence is Nimona, a shape-shifting teen who might also be a monster he's sworn to kill.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg_qPNpCFkfh8m00LkjVgk3j7dEjpuowyGHfBQC8XL0l8V9zLZ",
+      "rating": 4,
+      "genres": ["adventure", "fantasy"],
+      "inTheaters": false,
+      "release": "06/14/23 13:55:26",
+      "trailer": "https://www.youtube.com/watch?v=f_fuHRyQbOc"
+    },
+    {
+      "id": 2,
+      "name": "Elemental",
+      "description": "In a city where fire, water, land, and air residents live together, a fiery young woman and a go-with-the-flow guy discover something elemental: how much they actually have in common.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPyNor44BR-fdlPtwlQ25HyQFYLlGLKho1NawQBwxLWlf0rTl_",
+      "rating": 4,
+      "genres": ["comedy", "fantasy"],
+      "inTheaters": false,
+      "release": "06/16/23 13:55:26",
+      "trailer": "https://www.youtube.com/watch?v=hXzcyx9V0xw"
+    },
+    {
+      "id": 3,
+      "name": "Ruby Gillman, Teenage Kraken",
+      "description": "Sweet and awkward 16-year-old Ruby Gillman is desperate to fit in at school, but she mostly just feels invisible. She's prevented from hanging out with the cool kids at the beach because her over-protective mom forbids her from getting in the water. When she breaks her mom's rule, Ruby discovers that she is a descendant of the warrior Kraken queens and is destined to inherit the throne from her grandmother. The Kraken are sworn to protect the world's oceans against vain, power-hungry mermaids.",
+      "image": "https://www.dreamworks.com/storage/cms-uploads/rgtk-poster.jpg",
+      "rating": 3,
+      "genres": ["animation"],
+      "inTheaters": false,
+      "release": "06/30/23 13:55:26",
+      "trailer": "https://www.youtube.com/watch?v=u4uyD8FFUIw"
+    }
+  ]
+}
